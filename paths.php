@@ -1,6 +1,7 @@
 <?php
 // Incair takes a very simple aproach to environments,
 // and we think you'll like it.
+// Have fun!
 $environments = array(
   "local" => array("http://localhost*","*.dev")
 )
